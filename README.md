@@ -19,7 +19,7 @@ Features
 - Buzzer  
 - Jumper wires & Breadboard  
 
- Working Principle
+ Working Principle:
 The MQ2 sensor detects gas concentration in the air, while the DHT11 measures temperature and humidity. The Arduino processes this data and displays it on the OLED screen. If gas levels exceed a predefined threshold, the buzzer is triggered as an alert.
 
  Applications

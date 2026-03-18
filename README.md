@@ -29,6 +29,4 @@ The MQ2 sensor detects gas concentration in the air, while the DHT11 measures te
 - Smart city solutions  
 
 
-
-## 👩‍💻 Author
-Tejaswini S  
+  

@@ -1,17 +1,17 @@
 # AeroSense-Air-Quality-Monitoring-System
   AeroSense: Smart Air Quality Monitoring System
 
- Overview
+ Overview:
 AeroSense is an IoT-based environmental monitoring system designed to measure and display real-time air quality, temperature, and humidity. The system helps detect harmful gases and alerts users when pollution levels exceed safe limits.
 
-Features
+Features:
 -  Detects air quality and harmful gases  
 -  Monitors temperature and humidity  
 -  Displays real-time data on OLED screen  
 -  Buzzer alert for high pollution levels  
 -  Compact and efficient embedded system
   
- Components Used
+ Components Used:
 - Arduino UNO  
 - MQ2 Gas Sensor  
 - DHT11 Temperature & Humidity Sensor  
